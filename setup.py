@@ -5,7 +5,7 @@ setup(
   packages = ['dfin'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = 'A simple Package to get Stock Details and Related Analysis built on 'yfinance'',   # Give a short description about your library
+  description = 'A simple Package to get Stock Details',   # Give a short description about your library
   author = 'Davis Raimon',                   # Type in your name
   author_email = 'davisraimon@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/davisraimon/dfin',   # Provide either the link to your github or to your website
@@ -27,4 +27,3 @@ setup(
     'Programming Language :: Python :: 3.6',
   ],
 )
-view rawsetup.py hosted with ❤ by GitHub
